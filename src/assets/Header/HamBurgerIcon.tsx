@@ -1,0 +1,39 @@
+export const HamBurgerIcon = () => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="21"
+      height="17"
+      viewBox="0 0 21 17"
+      fill="none"
+    >
+      <line
+        x1="1.05"
+        y1="1.41948"
+        x2="19.95"
+        y2="1.41948"
+        stroke="#023047"
+        strokeWidth="2.1"
+        strokeLinecap="round"
+      />
+      <line
+        x1="1.05"
+        y1="8.41948"
+        x2="19.95"
+        y2="8.41948"
+        stroke="#023047"
+        strokeWidth="2.1"
+        strokeLinecap="round"
+      />
+      <line
+        x1="1.05"
+        y1="15.4195"
+        x2="19.95"
+        y2="15.4195"
+        stroke="#023047"
+        strokeWidth="2.1"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+};
